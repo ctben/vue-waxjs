@@ -1,5 +1,5 @@
 # WaxJS Demo
-ref: https://developer.wax.io/waa/waxjs-demo
+ref: https://developer.wax.io/waa/waxjs-demo, https://developer.wax.io/es/wax-cloud-wallet/waxjs/waxjs_demo.html
 
 ## Function
 ```
